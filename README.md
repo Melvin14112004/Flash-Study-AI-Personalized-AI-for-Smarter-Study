@@ -38,37 +38,41 @@ The project integrates transformer-based NLP models with a modern full-stack arc
 
 ## System Architecture
 
-![alt text](img/system_architecture.png)
+![alt text](image/system_architecture.png)
 
 ## Output
 
-#### Main Menu Interface
+#### Fig 10.1 Main Menu
 
-![alt text](img/main_menu.png)
+![alt text](image/home_page.png)
 
-#### Dashboard and PDF Upload
+#### Fig 10.2 Hub
 
-![alt text](img/dashboard.png)
+![alt text](image/hub.png)
 
-#### AI Generated Summary
+#### Fig 10.3 Dashboard
 
-![alt text](img/summary.png)
+![alt text](image/dashboard.png)
 
-#### Flashcard Generation
+#### Fig 10.4 Summarizer
 
-![alt text](img/flashcards.png)
+![alt text](image/summarizer.png)
 
-#### Quiz Generation
+#### Fig 10.5 Quiz
 
-![alt text](img/quiz.png)
+![alt text](image/quiz.png)
 
-#### Mind Map Visualization
+#### Fig 10.6 Flashcards
 
-![alt text](img/mindmap.png)
+![alt text](image/flashcards.png)
 
-#### Smart Semantic Search
+#### Fig 10.7 Mind Map
 
-![alt text](img/search.png)
+![alt text](image/mindmap.png)
+
+#### Fig 10.8 Smart Search
+
+![alt text](image/smart_search.png)
 
 ## Results and Impact
 
