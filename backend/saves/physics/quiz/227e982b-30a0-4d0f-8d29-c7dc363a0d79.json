@@ -1,0 +1,25 @@
+{
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "True or False: In the summary, Reading comprehension is related to categories that describe the roles each word play in asentence and include nouns, pronouns, verbs, adverbs, prepositions,conjunctions, and....",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer_index": 1,
+      "type": "true_false",
+      "id": "q1"
+    },
+    {
+      "question": "True or False: In the summary, In English grammar, parts is related to categories that describe the roles each word play in asentence and include nouns, pronouns, verbs, adverbs, prepositions,conjunctions, and....",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer_index": 0,
+      "type": "true_false",
+      "id": "q2"
+    }
+  ]
+}

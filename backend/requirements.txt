@@ -1,0 +1,10 @@
+Flask>=2.0
+flask-cors>=3.0
+pymupdf>=1.22.0
+transformers>=4.30.0
+sentence-transformers>=2.2.2
+torch>=1.13.0
+numpy>=1.23
+gTTS>=2.3.0
+pyttsx3>=2.90
+typing_extensions

@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "topic": "Machine Learning",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is supervised learning?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "answer": "A"
+      }
+    ]
+  }
+]

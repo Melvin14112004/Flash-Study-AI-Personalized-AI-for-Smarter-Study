@@ -1,0 +1,41 @@
+{
+  "root": "Lear uses parts of speech to describe the",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Nouns",
+      "content": "Nouns",
+      "order": 0
+    },
+    {
+      "id": "s2",
+      "title": "Pronouns",
+      "content": "Pronouns",
+      "order": 0
+    },
+    {
+      "id": "s3",
+      "title": "Verbs",
+      "content": "Verbs",
+      "order": 0
+    },
+    {
+      "id": "s4",
+      "title": "Adverbs",
+      "content": "Adverbs",
+      "order": 0
+    },
+    {
+      "id": "s5",
+      "title": "Prepositions",
+      "content": "Prepositions",
+      "order": 0
+    },
+    {
+      "id": "s6",
+      "title": "Conjunctions",
+      "content": "Conjunctions",
+      "order": 0
+    }
+  ]
+}

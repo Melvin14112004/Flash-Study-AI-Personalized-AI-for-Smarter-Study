@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "username": "melvin",
+    "email": "melvin@example.com",
+    "joined_date": "2025-10-29",
+    "progress": {
+      "completed_quizzes": 5,
+      "flashcards_reviewed": 20
+    }
+  }
+]

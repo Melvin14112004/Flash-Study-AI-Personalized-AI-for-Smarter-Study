@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "topic": "Data Science",
+    "cards": [
+      {
+        "term": "Regression",
+        "definition": "A method to model relationships between variables."
+      },
+      {
+        "term": "Classification",
+        "definition": "Predicting discrete categories."
+      }
+    ]
+  }
+]

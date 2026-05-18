@@ -1,0 +1,9 @@
+[
+  {
+    "user_id": 1,
+    "total_sessions": 3,
+    "quizzes_taken": 2,
+    "flashcards_reviewed": 10,
+    "average_score": 85
+  }
+]
